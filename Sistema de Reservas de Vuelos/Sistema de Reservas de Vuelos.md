@@ -4,28 +4,24 @@
 Rafael Martín Mayor.
 </div>
 
-![]()
+![](https://raw.githubusercontent.com/RafaelMayor/ETS/main/Sistema%20de%20Reservas%20de%20Vuelos/Sistema%20de%20Reservas%20de%20Vuelos.drawio.png)
 
 ## Sistema de Reservas de Vuelos
 
-### 1. Prestar Libro
-   - **Actor:** Bibliotecario
-   - **Descripción:** El bibliotecario presta un libro a un usuario.
+### 1. Reservar Vuelo
+   - **Actor:** Pasajero, Agente de Reservas
+   - **Descripción:** Permite a los usuarios reservar un vuelo seleccionando la fecha, hora y destino deseados.
 
-### 2. Devolver Libro
-   - **Actor:** Usuario
-   - **Descripción:** El usuario devuelve un libro a la biblioteca.
+### 2. Cancelar Reserva
+   - **Actor:** Pasajero, Agente de Reservas
+   - **Descripción:** Permite a los usuarios cancelar una reserva existente.
 
-### 3. Buscar Libro
-   - **Actor:** Usuario, Bibliotecario
-   - **Descripción:** Se busca un libro específico en la biblioteca.
+### 3. Cambiar Vuelo
+   - **Actor:** Pasajero, Agente de Reservas
+   - **Descripción:** Permite a los usuarios modificar los detalles de un vuelo reservado previamente.
 
-### 4. Alargar Plazo de Entrega
-   - **Actor:** Usuario 
-   - **Descripción:** El usuario solicita más tiempo para tener prestado un libro.
-
-### 5.Donar Libro 
-   - **Actor:** Usuario 
-   - **Descripción:** Un usuario dona libros a la biblioteca para agregar al inventario existente.
+### 4. Buscar Vuelo
+   - **Actor:** Agente de Reservas
+   - **Descripción:** El Agente de Reservas busca vuelos disponibles según las preferencias del Pasajero.
 
 </div>
