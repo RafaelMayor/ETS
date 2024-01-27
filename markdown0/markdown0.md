@@ -20,6 +20,7 @@ Tabla:
 | Luis   | García   | 40   |
 
 Dos imágenes:
+
 ![Imagen local](hombre_piña.webp)
 ![Imagen externa](https://pbs.twimg.com/profile_images/1417260332469395456/yeUcoepz_400x400.jpg)
 
