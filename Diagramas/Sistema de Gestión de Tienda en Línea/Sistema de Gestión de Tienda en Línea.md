@@ -4,7 +4,14 @@
 Rafael Martín Mayor.
 </div>
 
+## Diagrama de casos de uso de Sistema de Gestión de Tienda en Línea:
+
 ![](Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.drawio.png)
+
+## Diagrama de secuencia de Sistema de Gestión de Tienda en Línea:
+
+![](DS%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.drawio.png)
+
 
 # Sistema de Gestión de Tienda en Línea
 
