@@ -4,7 +4,7 @@
 Rafael Martín Mayor.
 </div>
 
-## Diagrama casos de uso de una biblioteca:
+## Diagrama de casos de uso de una biblioteca:
 
 ![](Casos%20de%20uso%20de%20una%20biblioteca.drawio.png)
 
