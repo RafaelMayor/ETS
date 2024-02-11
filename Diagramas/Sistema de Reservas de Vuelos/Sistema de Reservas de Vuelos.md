@@ -10,7 +10,7 @@ Rafael Martín Mayor.
 
 ## Diagrama de secuencia de Sistema de Reservas de Vuelos:
 
-
+![](DS%20Sistema%20de%20Reservas%20de%20Vuelos.drawio.png)
 
 ## Sistema de Reservas de Vuelos
 
