@@ -4,7 +4,14 @@
 Rafael Martín Mayor.
 </div>
 
+## Diagrama de casos de uso de Aplicación de Red Social:
+
 ![](Aplicación%20de%20Red%20Social.drawio.png)
+
+## Diagrama de secuencia de Aplicación de Red Social:
+
+![](DS%20Aplicación%20de%20Red%20Social.drawio.png)
+
 
 # Aplicación de Red Social
 
