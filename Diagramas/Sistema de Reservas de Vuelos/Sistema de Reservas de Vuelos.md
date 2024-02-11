@@ -4,7 +4,13 @@
 Rafael Martín Mayor.
 </div>
 
-![](https://raw.githubusercontent.com/RafaelMayor/ETS/main/Sistema%20de%20Reservas%20de%20Vuelos/Sistema%20de%20Reservas%20de%20Vuelos.drawio.png)
+## Diagrama de casos de uso de Sistema de Reservas de Vuelos:
+
+![](Sistema%20de%20Reservas%20de%20Vuelos.drawio.png)
+
+## Diagrama de secuencia de Sistema de Reservas de Vuelos:
+
+
 
 ## Sistema de Reservas de Vuelos
 

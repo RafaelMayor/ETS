@@ -4,8 +4,13 @@
 Rafael Martín Mayor.
 </div>
 
+## Diagrama de casos de uso de Sistema de Cajero Automático ATM:
 
 ![](Sistema%20de%20Cajero%20Automático%20ATM.drawio.png)
+
+## Diagrama de secuencia de Sistema de Cajero Automático ATM:
+
+![](DS%20Sistema%20cajero%20automatico%20Rafa.jpg)
 
 
 # Sistema de Cajero Automático ATM
