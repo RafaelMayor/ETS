@@ -12,6 +12,10 @@ Rafael Martín Mayor.
 
 ![](DS%20Biblioteca.drawio.png)
 
+## Diagrama de actividades de una biblioteca:
+
+![](DAct%20Biblioteca.png)
+
 # **Casos de Uso de la Biblioteca**
 
 ### 1. Prestar Libro
