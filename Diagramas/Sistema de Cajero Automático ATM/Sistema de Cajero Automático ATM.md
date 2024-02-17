@@ -12,6 +12,9 @@ Rafael Martín Mayor.
 
 ![](DS%20Sistema%20cajero%20automatico%20Rafa.jpg)
 
+## Diagrama de actividades de Sistema de Cajero Automático ATM:
+
+![](DAct%20Sistema%20cajero%20automatico.png)
 
 # Sistema de Cajero Automático ATM
 
