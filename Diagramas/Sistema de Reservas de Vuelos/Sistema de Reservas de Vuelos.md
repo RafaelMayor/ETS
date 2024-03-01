@@ -16,6 +16,10 @@ Rafael Martín Mayor.
 
 ![](DAct%20Sistema%20de%20Reservas%20de%20Vuelos.png)
 
+## Diagrama de clases de Sistema de Reservas de Vuelos:
+
+![](DC%20Sistema%20de%20Reservas%20de%20Vuelos.png)
+
 ## Sistema de Reservas de Vuelos
 
 ### 1. Reservar Vuelo
