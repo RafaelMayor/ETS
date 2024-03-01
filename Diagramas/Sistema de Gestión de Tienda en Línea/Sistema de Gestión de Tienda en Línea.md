@@ -16,6 +16,10 @@ Rafael Martín Mayor.
 
 ![](DAct%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.png)
 
+## Diagrama de clases de Sistema de Gestión de Tienda en Línea:
+
+![](DC%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.png)
+
 
 # Sistema de Gestión de Tienda en Línea
 
