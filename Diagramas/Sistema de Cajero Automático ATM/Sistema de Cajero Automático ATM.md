@@ -16,6 +16,10 @@ Rafael Martín Mayor.
 
 ![](DAct%20Sistema%20cajero%20automatico.png)
 
+## Diagrama de clases de Sistema de Cajero Automático ATM:
+
+![](DAct%20Sistema%20cajero%20automatico.png)
+
 # Sistema de Cajero Automático ATM
 
 
