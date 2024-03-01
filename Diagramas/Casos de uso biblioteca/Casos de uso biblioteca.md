@@ -16,6 +16,10 @@ Rafael Martín Mayor.
 
 ![](DAct%20Biblioteca.png)
 
+## Diagrama de clases de una biblioteca:
+
+![](DC%20Biblioteca.png)
+
 # **Casos de Uso de la Biblioteca**
 
 ### 1. Prestar Libro
