@@ -16,9 +16,13 @@ Rafael Martín Mayor.
 
 ![](DAct%20Aplicación%20de%20Red%20Social.png)
 
-## Diagrama de actividades de Aplicación de Red Social:
+## Diagrama de clases de Aplicación de Red Social:
 
 ![](DC%20Aplicación%20de%20Red%20Social.png)
+
+## Diagrama de objetos de Aplicación de Red Social:
+
+![](DObj%20Aplicación%20de%20Red%20Social.png)
 
 # Aplicación de Red Social
 

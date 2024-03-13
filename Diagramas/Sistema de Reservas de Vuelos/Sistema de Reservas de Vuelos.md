@@ -20,6 +20,10 @@ Rafael Martín Mayor.
 
 ![](DC%20Sistema%20de%20Reservas%20de%20Vuelos.png)
 
+## Diagrama de objetos de Sistema de Reservas de Vuelos:
+
+![](DObj%20Sistema%20de%20Reservas%20de%20Vuelos.png)
+
 ## Sistema de Reservas de Vuelos
 
 ### 1. Reservar Vuelo

@@ -20,6 +20,10 @@ Rafael Martín Mayor.
 
 ![](DC%20Sistema%20cajero%20automatico.png)
 
+## Diagrama de objetos de Sistema de Cajero Automático ATM:
+
+![](DObj%20Sistema%20cajero%20automatico.drawio.png)
+
 # Sistema de Cajero Automático ATM
 
 

@@ -20,6 +20,10 @@ Rafael Martín Mayor.
 
 ![](DC%20Biblioteca.png)
 
+## Diagrama de objetos de una biblioteca:
+
+![](DObj%20Biblioteca.png)
+
 # **Casos de Uso de la Biblioteca**
 
 ### 1. Prestar Libro
