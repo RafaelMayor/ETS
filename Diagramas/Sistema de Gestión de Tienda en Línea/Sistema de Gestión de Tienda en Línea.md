@@ -20,6 +20,10 @@ Rafael Martín Mayor.
 
 ![](DC%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.png)
 
+## Diagrama de objetos de Sistema de Gestión de Tienda en Línea:
+
+![](DObj%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.png)
+
 
 # Sistema de Gestión de Tienda en Línea
 
