@@ -24,6 +24,10 @@ Rafael Martín Mayor.
 
 ![](DObj%20Sistema%20cajero%20automatico.drawio.png)
 
+## Diagrama de paquetes de Sistema de Cajero Automático ATM:
+
+![](DPaq%20Sistema%20cajero%20automatico.png)
+
 # Sistema de Cajero Automático ATM
 
 
