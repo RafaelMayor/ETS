@@ -24,6 +24,10 @@ Rafael Martín Mayor.
 
 ![](DObj%20Biblioteca.png)
 
+## Diagrama de paquetes de una biblioteca, siguiendo MVC:
+
+![](DPaq%20Biblioteca.png)
+
 # **Casos de Uso de la Biblioteca**
 
 ### 1. Prestar Libro
