@@ -17,6 +17,10 @@ Rafael Martín Mayor.
 
 ![](DObj%20Sistema%20administrativo%20hospitalario.png)
 
+## Diagrama de paquetes del sistema hospitalario
+
+![](DPaq%20Sistema%20administrativo%20hospitalario.png)
+
 **Descripción general:**
 
 Este diagrama de actividades describe el proceso de un paciente que ingresa a un hospital. El paciente ingresa al hospital cuando se le diagnostica una enfermedad grave. El médico consulta con el paciente y luego ordena una prueba diagnóstica. Los resultados de la prueba se utilizan para diagnosticar al paciente. Si el paciente necesita una operación, se programa una operación. De lo contrario, el paciente recibe tratamiento. Después de la operación o el tratamiento, el paciente se recupera y luego es dado de alta del hospital.
