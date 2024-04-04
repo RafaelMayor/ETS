@@ -24,6 +24,10 @@ Rafael Martín Mayor.
 
 ![](DObj%20Aplicación%20de%20Red%20Social.png)
 
+## Diagrama de paquetes de Aplicación de Red Social:
+
+![](DPaq%20Aplicación%20de%20Red%20Social.png)
+
 # Aplicación de Red Social
 
 1. **Publicar Mensaje**
