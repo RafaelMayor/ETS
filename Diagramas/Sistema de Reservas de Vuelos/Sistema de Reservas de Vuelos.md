@@ -24,6 +24,10 @@ Rafael Martín Mayor.
 
 ![](DObj%20Sistema%20de%20Reservas%20de%20Vuelos.png)
 
+## Diagrama de paquetes de Sistema de Reservas de Vuelos:
+
+![](DPaq%20Sistema%20de%20Reservas%20de%20Vuelos.png)
+
 ## Sistema de Reservas de Vuelos
 
 ### 1. Reservar Vuelo
