@@ -24,6 +24,9 @@ Rafael Martín Mayor.
 
 ![](DObj%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.png)
 
+## Diagrama de paquetes de Sistema de Gestión de Tienda en Línea, siguiendo MVC:
+
+![](DPaq%20Sistema%20de%20Gestión%20de%20Tienda%20en%20Línea.png)
 
 # Sistema de Gestión de Tienda en Línea
 
